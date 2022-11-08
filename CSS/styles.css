@@ -64,12 +64,6 @@ button {
   border: 2px solid #F7F7F7;
 }
 
-.darkmode {
-	function darkmode(){
-  document.body.classList.toggle('darkmode')
-}
-
-}
 
 .top-container {
   background-color: #FCF8E8;
