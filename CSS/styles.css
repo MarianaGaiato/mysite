@@ -57,18 +57,6 @@ nav {
 	color: #9EB23B;
 }
 
-button {
-  color: #377D71;
-  box-sizing: border-box;
-  border-radius: 100px;
-  border: 2px solid #F7F7F7;
-}
-
-.darkmode {
-	background-color: #000000;
-}
-
-
 .top-container {
   background-color: #FCF8E8;
   padding-top: 125px;
